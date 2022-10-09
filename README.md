@@ -1,5 +1,7 @@
 ### Hi there 👋 I'm Saptarshee Bhowmick
 
+[![Saptarshee's github stats](https://github-readme-stats.vercel.app/api?username=Saptarshee94)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Saptarshee94/Saptarshee94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,7 +20,7 @@ Here are some ideas to get you started:
 - :computer: I’m an Open-Source enthusiast and a techie.
 - 👯 I’m looking to collaborate on Open-Source projects.
 - 📫 How to reach me: [Website](https://saptarsheebhowmick.in)
-- 🌱 I’m currently learning JS, Java and briefly python, testing and UI frameworks and tools, and always looking to explore new things.
+- 🌱 I’m currently learning JS, Java and briefly Python, testing and UI frameworks and tools, and always looking to explore new things.
 - ⚡ Fun fact: I have a keen interest in Devops, and aspire to be a Devops engineer. Interested in Linux and Docker stuffs...
 
 ### Badges
