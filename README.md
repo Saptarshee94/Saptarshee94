@@ -20,4 +20,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: (Website)[https://saptarsheebhowmick.in]
 - 🌱 I’m currently learning JS, Java and briefly python, testing and UI frameworks and tools, and always looking to explore new things.
 - ⚡ Fun fact: I have a keen interest in Devops, and aspire to be a Devops engineer. Interested in Linux and Docker stuffs...
+
+### Badges
 [![@saptarshee94's Holopin board](https://holopin.io/api/user/board?user=saptarshee94)](https://holopin.io/@saptarshee94)
